@@ -102,7 +102,10 @@ For Transient Analysis Settings and Output
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
+![WhatsApp Image 2024-08-28 at 18 11 51_c66fa966](https://github.com/user-attachments/assets/678a5372-ad1c-434f-9043-532b1445d6e3)
+
 Results:
+
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
